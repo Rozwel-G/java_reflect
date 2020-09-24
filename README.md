@@ -1,0 +1,2 @@
+# java_reflect
+FunctionAndParams中，定义一个drawFunc对象，根据对象的shape属性以及method属性自动调用对应的对象中的方法并返回结果
